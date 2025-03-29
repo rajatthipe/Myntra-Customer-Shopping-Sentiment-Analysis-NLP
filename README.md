@@ -2,7 +2,7 @@
 
 ### Overview 📝
 
-##### This project aims to analyze customer sentiments from Myntra shopping reviews using Natural Language Processing (NLP) techniques. The objective is to extract insights from customer feedback and understand their shopping experience through sentiment analysis.
+#### This project aims to analyze customer sentiments from Myntra shopping reviews using Natural Language Processing (NLP) techniques. The objective is to extract insights from customer feedback and understand their shopping experience through sentiment analysis.
 
 ## Features Implemented 🚀
 
